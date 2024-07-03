@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    }
+    h1{
+        font-size: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: red;
+        text-align: center;
+
+    }
+    img{
+        height: 400px;
+        width: 600px;
+    }
+    h2{
+        font-size: 30px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: blue;
+    }
+    h3{
+        font-size: 30px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: goldenrod;
+    }
+    h4{
+        font-size: 30px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: blueviolet;
+    }
+
+    .box{
+        height: 200px;  
+        width: 300px; px;
+        border: 6px solid black;
+        image-rendering: pixelated
+    }
+    #class{
+   height: 900px;
+   background-color: rgb(91, 121, 121);
+   display:flex;
+   flex-direction:row;
+   justify-content:space-between;
+   align-items: center;
+img {
+    width: 100%;
+    height: 100%;
+}
+
+
+    }
+
+        
+
+    
